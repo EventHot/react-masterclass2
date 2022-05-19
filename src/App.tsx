@@ -67,12 +67,12 @@ a {
 `;
 
 function App() {
-  return (
-    <>
-      <GlobalStyle />
-      <ToDoList />
-    </>
-  );
+    return (
+        <>
+            <GlobalStyle />
+            <ToDoList />
+        </>
+    );
 }
 
 export default App;
